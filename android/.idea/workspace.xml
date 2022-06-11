@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1744d4b9-494a-463e-85da-6a2be791add6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/BUCK" beforeDir="false" afterPath="$PROJECT_DIR$/app/BUCK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build_defs.bzl" beforeDir="false" afterPath="$PROJECT_DIR$/app/build_defs.bzl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug.keystore" beforeDir="false" afterPath="$PROJECT_DIR$/app/debug.keystore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/ViriStoreGroceryApp-release.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/java/com/rohitbns/ViriStoreGroceryApp/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rohitbns/ViriStoreGroceryApp/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rohitbns/ViriStoreGroceryApp/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/rohitbns/ViriStoreGroceryApp/generated/BasePackageList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/splashscreen_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/splashscreen_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/splashscreen_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/splashscreen_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/splashscreen_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/splashscreen_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/splashscreen_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/splashscreen_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splashscreen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/splashscreen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/Demo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/Demo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/Demo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/Demo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/Demo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/Demo3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/app_icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/app_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/cardbg.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/cardbg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/css/ReactHorizontalDatePicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/css/ReactHorizontalDatePicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/google.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/splash_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/splash_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/wallet.png" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/wallet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp.xcodeproj/xcshareddata/xcschemes/ViriStoreGroceryApp.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp.xcodeproj/xcshareddata/xcschemes/ViriStoreGroceryApp.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/AppDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Base.lproj/LaunchScreen.xib" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Base.lproj/LaunchScreen.xib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/App-Icon-83.5x83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreen.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreen.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreen.imageset/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreen.imageset/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreenBackground.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreenBackground.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreenBackground.imageset/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Images.xcassets/SplashScreenBackground.imageset/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/SplashScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/SplashScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Supporting/Expo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/Supporting/Expo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/ViriStoreGroceryApp-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/ViriStoreGroceryApp-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/ViriStoreGroceryApp.entitlements" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/ViriStoreGroceryApp.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/main.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/main.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/noop-file.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/ViriStoreGroceryApp/noop-file.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metro.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../metro.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/actions/itemsAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/actions/itemsAction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/actions/postActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/actions/postActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/AddtoCartPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/AddtoCartPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/AddAddressScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/AddAddressScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/AddressScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/AddressScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/AddressScreen_x.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/AddressScreen_x.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/CheckOutScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/CheckOutScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/PaymentOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/CartCheckoutScreens/PaymentOptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/Constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/Constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/CustomSidebarMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/CustomSidebarMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/DemoScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/DemoScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/Loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/Loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/NavigationDrawerHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/NavigationDrawerHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/OrderCancelPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/OrderCancelPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/OrderDetailsScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/OrderDetailsScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/OrderScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/OrderScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/PaymentStripe.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/PaymentStripe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/Products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/PromocodeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/PromocodeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/StripePaymentComponent/AddCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/StripePaymentComponent/AddCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/StripePaymentComponent/CardButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/StripePaymentComponent/CardButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/StripePaymentComponent/SelectPayment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/StripePaymentComponent/SelectPayment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/StylesHome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/StylesHome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/UseAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/UseAPI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Components/WalletScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Components/WalletScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerNavigatorRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerNavigatorRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/AboutusScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/AboutusScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/CartScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/CartScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/CategoryScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/CategoryScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/HomeScreen2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/HomeScreen2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/NotificationsView.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/NotificationsView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/ProfileScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/ProfileScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/Rewards.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/Rewards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/RewardsScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/RewardsScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/SearchScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/SearchScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/DrawerScreens/TermsConditionScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/DrawerScreens/TermsConditionScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/ForgetPass.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/ForgetPass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/MapComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/MapComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Signin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Signin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Splash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Splash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/activity/Storage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/activity/Storage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigation/DrawerNavigator_bkupfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/DrawerNavigator_bkupfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigation/HamburgerNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/HamburgerNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigation/StackNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/StackNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/navigation/TabNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/TabNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/reducers/itemsReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/reducers/itemsReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/reducers/postReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/reducers/postReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/megha/.android/avd/Pixel_3a_API_24.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="/media/megha/7F81-2A7E/projects/justcomfort/keys/keystore.jks" />
+    <option name="KEY_ALIAS" value="umbeo" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29uxySMfiOeQP0DQbHZHj268Gsm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="jhatfat.app" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="/media/megha/7F81-2A7E/projects/justcomfort/ddwholesaleshoping" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="jhatfat.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Bazel>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Bazel>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <NativeBazel>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </NativeBazel>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1744d4b9-494a-463e-85da-6a2be791add6" name="Default Changelist" comment="" />
+      <created>1653977053440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653977053440</updated>
+    </task>
+    <servers />
+  </component>
+</project>
