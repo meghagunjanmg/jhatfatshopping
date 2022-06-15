@@ -9,6 +9,7 @@ const data = [{
 },
 {
     cat_id:2,
+  
     title:"Fresh Supermarket",
     image:"https://img.freepik.com/free-vector/shopping-cart-supermarket-logo-template_23-2148470295.jpg",
     description:"shop desciption"
