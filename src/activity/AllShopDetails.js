@@ -1,6 +1,7 @@
 import {TouchableOpacity,StyleSheet,View,Text,SafeAreaView,FlatList,Image} from "react-native";
 import React, {useState, useEffect, createRef} from "react";
 
+
 const data = [{
     cat_id:1,
     title:"Shop Rite",
