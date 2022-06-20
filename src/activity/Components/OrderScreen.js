@@ -145,6 +145,8 @@ const OrderScreen = (props) => {
                 style={{backgroundColor:"#ac1929",width: "48%",padding:10,borderRadius:50,alignItems:"center"}}>
                 <Text style={{color:"white"}}>Order Details</Text>
               </TouchableOpacity>
+
+              
             </View>
   
           </View>
@@ -219,6 +221,11 @@ const OrderScreen = (props) => {
                 onPress={() => props.navigation.navigate("OrderDetailsScreen", {screen: "OrderDetailsScreen", params: {data:order.data}})} 
                 style={{backgroundColor:"#ac1929",width: "95%",padding:10,borderRadius:50,alignItems:"center"}}>
                 <Text style={{color:"white"}}>Order Details</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+              onePress={() => props.navigation.navigate("OrderDetailsScreen", {screen: "OrderDetailsScreen", params: {data:order.data}})}
+              style={{backgroundColor:"#ac1929",width: "95%",padding:10,borderRadius:50,alignItems:"center"}}>
+                <Text style={{color:"white"}}>Feedback</Text>
               </TouchableOpacity>
             </View>
           </View>
