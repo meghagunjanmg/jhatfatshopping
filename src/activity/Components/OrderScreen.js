@@ -1,10 +1,18 @@
 import * as React from 'react';
+import { StatusBar } from "expo-status-bar";
 import {useState,useEffect} from "react";
-import { View, Text , TouchableOpacity, ScrollView,ActivityIndicator, useWindowDimensions } from 'react-native';
+import { View, Text , TouchableOpacity, ScrollView,ActivityIndicator, useWindowDimensions ,Modal,TextInput,Dimensions,SafeAreaView,Button} from 'react-native';
 import { TabView, SceneMap, TabBar } from 'react-native-tab-view';
 import {StyleSheet} from 'react-native';
 import {connect} from "react-redux";
 import {getUserOrders,getUserPastOrders} from "../../actions/itemsAction";
+
+const { width } = Dimensions.get("window");
+
+
+
+
+
 
 
 
@@ -16,6 +24,13 @@ const OrderScreen = (props) => {
   const [loading,setloading] = useState(true);
   const [checkOrderBlank,setCheckOrderBlank] = useState(false);
   const [checkPastOrderBlank,setCheckPastOrderBlank] = useState(false);
+  const [isModalVisible, setModalVisible] = useState(false);
+  const toggleModalVisibility = () => {
+    setModalVisible(!isModalVisible);
+  };
+  
+    // This is to manage TextInput State
+    const [inputValue, setInputValue] = useState("");
   const [routes] = useState([
     { key: 'first', title: 'Pending Order' },
     { key: 'second', title: 'Past Order' },
@@ -129,6 +144,7 @@ const OrderScreen = (props) => {
   
             <View style={{flexDirection:"row",marginBottom:10}}>
               {order.order_status !== "Cancelled"?
+              
               <TouchableOpacity 
                 onPress={() => props.navigation.navigate("OrderCancelPageScreen", {screen: "OrderCancelPageScreen", params: {data:order.data}})} 
                 style={{backgroundColor:"red",width: "48%",padding:10,borderRadius:50,alignItems:"center",marginRight:10}}>
@@ -145,6 +161,29 @@ const OrderScreen = (props) => {
                 style={{backgroundColor:"#ac1929",width: "48%",padding:10,borderRadius:50,alignItems:"center"}}>
                 <Text style={{color:"white"}}>Order Details</Text>
               </TouchableOpacity>
+              <TouchableOpacity
+              onPress={() =>{toggleModalVisibility}} 
+              style={{backgroundColor:"#ac1929",width: "95%",padding:10,borderRadius:50,alignItems:"center"}}>
+                <Text style={{color:"white"}}>Feedback</Text>
+                
+          </TouchableOpacity>
+          <Modal animationType="slide" 
+                 transparent visible={isModalVisible} 
+                 presentationStyle="overFullScreen" 
+                 onDismiss={toggleModalVisibility}>
+              <View style={styles.viewWrapper}>
+                  <View style={styles.modalView}>
+                      <TextInput placeholder="Enter something..." 
+                                 value={inputValue} style={styles.textInput} 
+                                 onChangeText={(value) => setInputValue(value)} />
+
+                      {/** This button is responsible to close the modal */}
+                      <Button title="Close" onPress={toggleModalVisibility} />
+                  </View>
+              </View>
+          </Modal>
+             
+              
 
               
             </View>
@@ -176,7 +215,9 @@ const OrderScreen = (props) => {
       );
     }
     else if(!checkPastOrderBlank){
+     
       return(<ScrollView vertical={true}
+
         showsVerticalScrollIndicator ={false}
         showsHorizontalScrollIndicator={false}
         style={{opacity:0.5}} >
@@ -223,10 +264,28 @@ const OrderScreen = (props) => {
                 <Text style={{color:"white"}}>Order Details</Text>
               </TouchableOpacity>
               <TouchableOpacity
-              onePress={() => props.navigation.navigate("OrderDetailsScreen", {screen: "OrderDetailsScreen", params: {data:order.data}})}
+              onPress={() =>{toggleModalVisibility}} 
               style={{backgroundColor:"#ac1929",width: "95%",padding:10,borderRadius:50,alignItems:"center"}}>
                 <Text style={{color:"white"}}>Feedback</Text>
+
+                
               </TouchableOpacity>
+              <Modal animationType="slide" 
+                 transparent visible={isModalVisible} 
+                 presentationStyle="overFullScreen" 
+                 onDismiss={toggleModalVisibility}>
+              <View style={styles.viewWrapper}>
+                  <View style={styles.modalView}>
+                      <TextInput placeholder="Enter something..." 
+                                 value={inputValue} style={styles.textInput} 
+                                 onChangeText={(value) => setInputValue(value)} />
+
+                      {/** This button is responsible to close the modal */}
+                      <Button title="Close" onPress={toggleModalVisibility} />
+                  </View>
+              </View>
+          </Modal>
+
             </View>
           </View>
         );
@@ -237,6 +296,8 @@ const OrderScreen = (props) => {
       return(
         <View style={styles.orderDetailsScreen}>
           <Text>No Past Order Details Available</Text>
+
+          
         </View>
       );
     }
@@ -263,7 +324,10 @@ const OrderScreen = (props) => {
       onIndexChange={setIndex}
       initialLayout={{ width: layout.width }}
     />
+    
   );
+  
+
 }
 const mapStateToProps = (state) => {
   // console.log("State Contains:-"+ state)
@@ -276,7 +340,43 @@ const mapStateToProps = (state) => {
   })
 }
 export default connect(mapStateToProps, {getUserOrders,getUserPastOrders})(OrderScreen);
+
 const styles = StyleSheet.create({
+  screen: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "#fff",
+},
+viewWrapper: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "rgba(0, 0, 0, 0.2)",
+},
+modalView: {
+    alignItems: "center",
+    justifyContent: "center",
+    position: "absolute",
+    top: "50%",
+    left: "50%",
+    elevation: 5,
+    transform: [{ translateX: -(width * 0.4) }, 
+                { translateY: -90 }],
+    height: 180,
+    width: width * 0.8,
+    backgroundColor: "#fff",
+    borderRadius: 7,
+},
+textInput: {
+    width: "80%",
+    borderRadius: 5,
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    borderColor: "rgba(0, 0, 0, 0.2)",
+    borderWidth: 1,
+    marginBottom: 8,
+},
   topbar: {
     marginTop: 10,
     marginBottom:10,

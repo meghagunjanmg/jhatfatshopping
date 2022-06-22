@@ -64,8 +64,17 @@ const ShopCategories = (props) => {
     <SafeAreaView style={styles.container}>
       <FlatList
         data={data}
+        numColumns={3}
         renderItem={({ item }) =>
-        <View>
+        <View
+        style={{
+          flex: 1,
+          flexDirection: 'column',
+          margin: 1,
+        }}
+        
+        >
+
             <TouchableOpacity 
             onPress={() => {
                 //alert("clicked"+item.title);
@@ -74,9 +83,9 @@ const ShopCategories = (props) => {
             }
             style={styles.listItem}>
             <Image source={{uri: item.image}}  style={{width:60, height:60,borderRadius:30}} />
-            <View style={{alignItems:"center",justifyContent:'center',flex:1}}>
-              <Text style={{fontWeight:"bold",alignContent:'center',fontSize:16}}>{item.title}</Text>
-              <Text>{item.description}</Text>
+            <View style={{alignItems:"center",justifyContent:'center',flex:1,marginTop:20}}>
+              <Text style={{fontSize:15,position:"relative",textAlign:"center",fontStyle:"italic"}}>{item.title}</Text>
+              <Text style={{fontSize:10,position:"relative",textAlign:"center"}}>{item.description}</Text>
             </View>
         
           </TouchableOpacity>
@@ -148,7 +157,8 @@ const mapStateToProps = (state) => {
     container: {
         flex: 1,
         backgroundColor: '#F7F7F7',
-        marginTop:60
+        marginTop:20,
+      
       },
       listItem:{
         margin:10,
@@ -157,8 +167,11 @@ const mapStateToProps = (state) => {
         width:"80%",
         flex:1,
         alignSelf:"center",
-        flexDirection:"row",
-        borderRadius:5
+        flexDirection:"column",
+        borderRadius:5,
+        justifyContent:"center",
+        alignItems:"center",
+        
       },
       item: {
         backgroundColor: '#ac1929',
@@ -168,11 +181,18 @@ const mapStateToProps = (state) => {
       },
       title: {
         fontSize: 18,
+      
+
       },
       image :{
         width: 25,
         height:25,
         margin: 8,
-        alignItems: "center"
+        resizeMode: 'contain',
+        alignSelf: 'center',
+
+        
+        
+        
       },
   });

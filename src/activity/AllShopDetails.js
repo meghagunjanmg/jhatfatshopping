@@ -42,8 +42,14 @@ const AllShopDetails = (props) => {
 
       <FlatList
         data={data}
+        numColumns={3}
         renderItem={({ item }) =>
-        <View>
+        <View
+        style={{
+          flex: 1,
+          flexDirection: 'column',
+          margin: 1,
+        }}>
             <TouchableOpacity 
             onPress={() => {
                 //alert("clicked"+item.title);
@@ -53,8 +59,8 @@ const AllShopDetails = (props) => {
             style={styles.listItem}>
             <Image source={{uri: item.image}}  style={{width:60, height:60,borderRadius:30}} />
             <View style={{alignItems:"center",flex:1}}>
-              <Text style={{fontWeight:"bold"}}>{item.title}</Text>
-              <Text>{item.description}</Text>
+              <Text style={{fontWeight:"bold",fontSize:10,fontStyle:"italic"}}>{item.title}</Text>
+              <Text style={{fontSize:15}}>{item.description}</Text>
             </View>
         
           </TouchableOpacity>
@@ -91,8 +97,10 @@ const mapStateToProps = (state) => {
         width:"80%",
         flex:1,
         alignSelf:"center",
-        flexDirection:"row",
-        borderRadius:5
+        flexDirection:"column",
+        borderRadius:5,
+        justifyContent:"center",
+        alignItems:"center",
       },
       item: {
         backgroundColor: '#ac1929',
